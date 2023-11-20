@@ -20,7 +20,7 @@ Admittedly the syntax takes some getting used to, but all it says is, here is a 
 Python as a language focuses on writing code easily and quickly. At this point you have probably noticed that you can achieve more with a few lines of Python than let's say a few lines of C. To achieve this, the Python language has to be rather flexible and not all that strict. That does mean however that most bugs and errors are only found while running the program. Forcing you, the programmer, to more carefully test your code. That in itself is not necessarily a bad thing, but it is often difficult to test every part of your program sufficiently. Which in turn leads to bugs lingering in the code. Type hints partially solve this problem, by making it possible to detect type errors early on. Before running your code even!
 
 
-## Types and progamming languages
+## Types and programming languages
 
 Different programming languages have different type systems, but why? Take a quick peek at the example below:
 
